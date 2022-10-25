@@ -1,0 +1,16 @@
+{
+    "@@locale": "en",
+    "newPaymentMethod": "New Payment Method",
+    "Add payment method": "Add payment method",
+    "areYouSure": "Are you sure?",
+    "thisActionCantBeUndone": "This action cant be undone",
+    "paymentMethodSuccessfullyAdded": "Payment Method added successfully",
+    "paymentMethodSuccessfullyRemoved": "Payment Method removed successfully",
+    "errorProcess": "There was an error in the process",
+    "cancelProcess": "Process was cancelled",
+    "addNewMethod": "Add new payment method",
+    "noPaymentMethods": "No payment methods are available, create one to start",
+    "aliasLabel": "Alias (Optional)",
+    "preferMethod": "Default method",
+    "methodSuccessfullySetAsPreferred": "The payment Method was set as default successfully"
+}

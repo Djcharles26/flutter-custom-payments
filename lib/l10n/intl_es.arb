@@ -1,0 +1,15 @@
+{
+    "@@locale": "es",
+    "newPaymentMethod": "Nuevo Método de Pago",
+    "addNewMethod": "Agregar método de pago",
+    "areYouSure": "¿Estás seguro?",
+    "thisActionCantBeUndone": "Esta acción no se podrá deshacer",
+    "paymentMethodSuccessfullyAdded": "Método de pago agregado correctamente",
+    "paymentMethodSuccessfullyRemoved": "Método de pago eliminado correctamente",
+    "errorProcess": "Ha habido un error en el proceso",
+    "cancelProcess": "El proceso ha sido cancelado",
+    "noPaymentMethods": "No hay métodos de pago disponibles, agrega uno para comenzar",
+    "aliasLabel": "Alias (Opcional)",
+    "preferMethod": "Método predeterminado",
+    "methodSuccessfullySetAsPreferred": "El método de pago ha sido asignado como default correctamente"
+}
